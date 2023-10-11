@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text{
+    display: flex;
+    gap: 20px;
+}
+.text1{
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+   
+}
+.card{
+    background-image: url("https://www.w3schools.com/w3images/house5.jpg");
+    width: 300px;
+    height: 300px;
+    background-position: center;
+}
+.metn{
+    position: absolute;
+    color: #fff;
+    padding: 10px;
+    background-color: black;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: space-between;
+    
+}
+.card1{
+background-image: url(https://www.w3schools.com/w3images/house2.jpg);
+width: 300px;
+height: 300px;
+background-position: center;
+}
+.card2{
+background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+width: 300px;
+height: 300px;
+background-position: center;
+}
+.card3{
+background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+width: 300px;
+height: 300px;
+background-position: center;
+}
+.card4{
+    background-image: url(https://www.w3schools.com/w3images/house4.jpg);
+width: 300px;
+height: 300px;
+background-position: center;
+}
+.card5{
+    background-image: url(https://www.w3schools.com/w3images/house2.jpg);
+width: 300px;
+height: 300px;
+background-position: center;
+}
+.card6{
+    background-image: url(https://www.w3schools.com/w3images/house5.jpg);
+width: 300px;
+height: 300px;
+background-position: center;
+}
+.card7{
+    background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+width: 300px;
+height: 300px;
+background-position: center;
+}
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: space-between;
+}
+.Document{
+    color: #fff;
+    justify-content: flex-end;
+    flex-wrap: wrap
+
+}
+
+ .sekil{
+    background-image:url(https://www.w3schools.com/w3images/team2.jpg) ;
+    width: 250px;
+    height: 250px;
+    background-position:center;
+    gap: 15px;
+   
+}
+
+.sekil1{
+    background-image: url(https://www.w3schools.com/w3images/team1.jpg);
+    width: 250px;
+    height: 250px;
+   background-position:center ;
+   gap: 15px;
+   
+}
